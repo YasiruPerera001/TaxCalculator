@@ -5,8 +5,8 @@ This project was developed as part of a case study to simplify tax and leasing c
 
 ---
 
-## 📌 **Features
-**
+## 📌 **Features**
+
 ### 1. **Withholding Tax**
 - **Rent Tax** – 10% charged for payments above Rs.100,000.
 - **Bank Interest Tax** – 5% charged on annual bank interest.
@@ -44,14 +44,14 @@ Enter your choice:
 ## ⚙️ **How to Run**
 
 ### **Clone the Repository**
-git clone https://github.com/YasiruPerera001/TaxCalculator.git
-cd TaxCalculator
+- git clone https://github.com/YasiruPerera001/TaxCalculator.git
+- cd TaxCalculator
 
 ### **Compile the Java Files**
-javac src/*.java
+- javac src/*.java
 
 ### **Run the Program**
-java -cp src Main
+- java -cp src Main
 
 ## 🛠 **Requirements**
 
