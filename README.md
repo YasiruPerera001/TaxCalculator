@@ -43,14 +43,14 @@ Enter your choice:
 ```
 ## ⚙️ **How to Run**
 
-### **Clone the Repository**
+### 1. **Clone the Repository**
 - git clone https://github.com/YasiruPerera001/TaxCalculator.git
 - cd TaxCalculator
 
-### **Compile the Java Files**
+### 2. **Compile the Java Files**
 - javac src/*.java
 
-### **Run the Program**
+### 3. **Run the Program**
 - java -cp src Main
 
 ## 🛠 **Requirements**
